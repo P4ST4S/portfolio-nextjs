@@ -13,8 +13,17 @@ const config: Config = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      colors: {
+        "dark-main": "#0B080C",
+        "purple-main": "#4A3856",
+        "purple-background": "#201825",
+        "white-main": "#D9D9D9",
+      },
     },
   },
-  plugins: [],
+  plugins: [
+    require("@tailwindcss/typography"),
+    require("daisyui")
+  ],
 }
 export default config
