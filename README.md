@@ -97,9 +97,8 @@ The project is a Next.js portfolio website for a freelance web developer. It sho
 
 Before you begin, ensure that you have the following prerequisites installed:
 
-> - `ℹ️ Requirement 1`
-> - `ℹ️ Requirement 2`
-> - `ℹ️ ...`
+> - `[Node JS](https://nodejs.org/en/)`
+> - `[NPM (Node Package Manager)](https://www.npmjs.com/)`
 
 ### 📦 Installation
 
