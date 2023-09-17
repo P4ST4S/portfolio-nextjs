@@ -137,9 +137,11 @@ npm test
 
 ## 🗺 Roadmap
 
-> - [x] `ℹ️  Task 1: Implement X`
-> - [ ] `ℹ️  Task 2: Refactor Y`
-> - [ ] `ℹ️ ...`
+> - [x] `Task 1: Implement Header`
+> - [x] `Task 2: Implement Home page`
+> - [ ] `Task 3: Implement Skill page`
+> - [ ] `Task 4: Implement Contact page`
+> - [ ] `Task 5: Implement Projects exemple`
 
 ---
 
@@ -175,12 +177,12 @@ git push origin new-feature-branch
 
 ## 📄 License
 
-This project is licensed under the `ℹ️  INSERT-LICENSE-TYPE` License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
+This project is licensed under the `MIT License`. See the [LICENSE](./LICENSE) file for additional info.
 
 ---
 
 ## 👏 Acknowledgments
 
-> - `ℹ️  List any resources, contributors, inspiration, etc.`
+> - `Google guidelines inspire me alot.`
 
 ---
